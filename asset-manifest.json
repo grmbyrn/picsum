@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picsum/static/css/main.aafee0c4.css",
+    "main.js": "/picsum/static/js/main.39ade4aa.js",
+    "index.html": "/picsum/index.html",
+    "main.aafee0c4.css.map": "/picsum/static/css/main.aafee0c4.css.map",
+    "main.39ade4aa.js.map": "/picsum/static/js/main.39ade4aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aafee0c4.css",
+    "static/js/main.39ade4aa.js"
+  ]
+}
